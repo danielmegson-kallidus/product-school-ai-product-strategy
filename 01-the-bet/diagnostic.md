@@ -1,39 +1,39 @@
 # Three-Axis Vulnerability Diagnostic
 
 ## Product
-<!-- Name the product you're diagnosing. Real product at your company — not a hypothetical. -->
+Learning Management System
 
 **Product:**
-**Your Role:**
+**Your Role:** - Lead Product Manager
 
 ---
 
 ## Scores
 
-### Contextual Moat — __/5
+### Contextual Moat — 4/5
 *Workflow depth × switching cost. Would users leave in a weekend if a competitor showed up?*
 
-**Score rationale:**
+**Score rationale:** - Hard to switch, multi-year contracts. Complex set up and on/offboarding. B2B market makes user switching a business task/drain.
 
-**Named attacker (from partner challenge):**
+**Named attacker (from partner challenge):** - CSOD, LearningPool, Thrive
 
 ---
 
-### Data Advantage — __/5
+### Data Advantage — 3/5
 *Proprietary signal that compounds with usage. What do you see that OpenAI doesn't?*
 
-**Score rationale:**
+**Score rationale:** Any platform with access to data can see it. Competitive advantage is historic data we have from length of time in market can inform data modelling.
 
-**Named attacker (from partner challenge):**
+**Named attacker (from partner challenge):** CSOD, LearningPool, SAP
 
 ---
 
-### Platform Exposure — __/5
+### Platform Exposure — 2/5
 *Encroachment risk × pivot speed. If Apple/Google/OpenAI ships your hero feature native — then what?*
 
-**Score rationale:**
+**Score rationale:** Learning space innovating quickly. Takes organisations time to adopt, but new products are simpler to build as a fundementally easy technology under the hood.
 
-**Named attacker (from partner challenge):**
+**Named attacker (from partner challenge):** TBC.
 
 ---
 
