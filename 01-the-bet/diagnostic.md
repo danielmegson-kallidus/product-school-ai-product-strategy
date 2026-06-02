@@ -37,8 +37,8 @@ Learning Management System
 
 ---
 
-## Top Vulnerability
+## Top Vulnerability - faster-growth by competitors
 <!-- One line: what's the single biggest strategic risk? -->
 
-## Confidence Level
+## Confidence Level - M
 <!-- H / M / L — how confident are you in this bet after the diagnostic? -->
