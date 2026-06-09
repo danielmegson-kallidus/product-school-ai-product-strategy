@@ -4,16 +4,16 @@
 
 | Dimension | Current State | Risk Level | 48-Hour Action |
 |-----------|--------------|------------|---------------|
-| **Provider** | | H / M / L | |
-| **Abstraction** | | H / M / L | |
-| **Routing** | | H / M / L | |
-| **Eval** | | H / M / L | |
+| **Provider** | Using 2 | L | Use marketplace for new providers if neccesary |
+| **Abstraction** | Model-agnostic | L | Swap model as per above |
+| **Routing** | Model agnostic | L | Swap model as above |
+| **Eval** | No automated eval - manual | M | Add automated evaluation |
 
 ## Portability Score
-<!-- Ready / Partial / Locked -->
+Ready
 
 ## If [primary vendor] doubles pricing tomorrow:
-<!-- What's your 48-hour response? -->
+Switch vendors
 
 ## If [primary vendor] ships a competing product:
-<!-- What's defensible that they can't replicate? -->
+SaaS B2B - customers cannot swap quickly. Need to improve our product rapidly to stay attractive to customers.
