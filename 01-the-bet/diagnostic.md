@@ -24,7 +24,7 @@ Learning Management System
 
 **Score rationale:** Any platform with access to data can see it. Competitive advantage is historic data we have from length of time in market can inform data modelling.
 
-**Named attacker (from partner challenge):** CSOD, LearningPool, SAP
+**Named attacker (from partner challenge):** CSOD, LearningPool, SAP, Thrive
 
 ---
 
