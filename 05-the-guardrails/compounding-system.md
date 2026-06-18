@@ -13,6 +13,24 @@
 
 ## Context Connectivity
 <!-- How does knowledge flow across teams and domains? Where does it silo? -->
+## Feedback Loops
+
+| Loop | Input | Output | Compounds? | Status |
+|------|-------|--------|-----------|--------|
+| Recursive Learning | Mixpanel data | Update golden dataset | Y | active |
+| Cross-Domain Transfer | User corrections in intercom | Update golden dataset | Y | active |
+| Network Intelligence | Usage volume data | Update golden dataset | N | missing |
+
+**Broken loop identified by partner:** Network Intelligence
+**Fix plan:** Add a traceable action for Learning completion
+
+## Context Connectivity
+<!-- How does knowledge flow across teams and domains? Where does it silo? -->
+
+**How knowledge flows:** PSAT signals, Feedback, Usage data
+
+**Where it silos:** Mixpanel, Intercom, Grafana
+
 
 ## Governance Policy
 
