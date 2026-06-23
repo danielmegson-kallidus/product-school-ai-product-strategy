@@ -1,9 +1,9 @@
 # Three-Axis Vulnerability Diagnostic
 
 ## Product
-Learning Management System
+Learning Management System Admin Agent
 
-**Product:**
+**Product:** Learning Management System
 **Your Role:** - Lead Product Manager
 
 ---
