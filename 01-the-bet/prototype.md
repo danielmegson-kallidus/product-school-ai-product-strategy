@@ -1,19 +1,20 @@
 # The Prototype Bet
 
 ## What I Built
-<!-- One sentence: what does this prototype demonstrate? -->
+Prototype of a chat-based agentic experience using Workato as an iPaaS and the Admin API
 
 ## Tool Used
-<!-- v0 / Cursor / Lovable / other -->
+Workato MCP
 
 ## Prototype Link
-<!-- Paste the shareable URL -->
+(https://app.eu.workato.com/?fid=smart-mcp_server)
 
 ## AI Value Archetype
-<!-- Automator / Copilot / Oracle / Creator / Orchestrator -->
+Orchastrator for Agentic
 
 ## The Bet in One Sentence
-<!-- What you're building, for whom, why now -->
+By adding an MCP Server capability, Administrators will have an improved user experience and reduction in task.
 
 ## Kill Criteria
-<!-- When would you stop? What evidence would kill this bet? -->
+- Lack of positive response from prototype.
+- Lack of adoption from early beta.
