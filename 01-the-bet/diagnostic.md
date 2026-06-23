@@ -37,8 +37,8 @@ Learning Management System Admin Agent
 
 ---
 
-## Top Vulnerability - faster-growth by competitors
-<!-- One line: what's the single biggest strategic risk? -->
+## Top Vulnerability
+Faster growth by competitors
 
-## Confidence Level - M
-<!-- H / M / L — how confident are you in this bet after the diagnostic? -->
+## Confidence Level
+M
