@@ -24,8 +24,8 @@
 - **Product:** Learning Management System
 - **AI Value Archetype:** Orchastrator for Agentic
 - **Vulnerability Scores:** Moat 4/5 · Data 3/5 · Platform 2/5
-- **Top Risk:**
-- **Confidence:** _(add: H / M / L)_
+- **Top Risk:** Faster growth by competitors
+- **Confidence:** M
 - **Prototype:** (https://app.eu.workato.com/?fid=smart-mcp_server)
 - **Kill Criteria:** - Lack of positive response from prototype. - Lack of adoption from early beta. - Massively positive response from prototype; shows we have found a product solution fit.
 
