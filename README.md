@@ -51,8 +51,8 @@
 
 **Will this make money or bleed it?**
 
-- **Gross Margin (current):**
-- **Gross Margin (AI-adjusted):**
+- **Gross Margin (current):** £1.66 PEPM (For all uiser types)
+- **Gross Margin (AI-adjusted):** £250 PEPM (For admin only)
 - **Pricing Model:** hybrid (seat-based)
 - **Pricing Today → Tomorrow:** £1.66 PEPM → £250 PEPM
 - **Total AI COGS / unit:**
