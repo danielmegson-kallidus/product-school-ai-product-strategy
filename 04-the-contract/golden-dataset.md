@@ -71,15 +71,3 @@ The M5 autonomy policy is the floor. Confidence tiers gate within action categor
 *Suggested finding (plausible, partner-style; swap with real workshop feedback when you have it):*
 
 The M5 autonomy policy gates **one tool call at a time**. The partner spotted that an orchestrating LLM can chain multiple "auto" MCP tools to achieve a "human-approval-required" outcome by composition. Worked example: admin says "make sure all new Field Engineers are doing the H&S refresher". The orchestrating LLM (a) calls `compliance_report.run` to identify the cohort (auto, data return), (b) calls `group.create` to make a temporary group (auto, group operations), (c) calls `group.add_members` to fill it (auto, group operations). If any Kallidus tenant has a rule configured that auto-assigns mandatory training on group membership, the chain has just achieved a learning-assignment outcome without ever hitting the approval gate.
-
-The miss in V1: I designed Human-in-the-loop (HITL) around blast radius, confidence, and per-action policy classes. I did not design for **policy evasion through composition**. Fix: the MCP server needs a session-level intent classifier. If a sequence of auto calls looks like it is building toward a restricted outcome, trip the approval gate on the next call. Add composition tests to the gold set that chain calls and verify the gate trips.
-
----
-
-### TL;DR
-• V2 reframed for the real product shape: chat-based MCP orchestrator over Workato + Kallidus Admin API. Outputs are tool calls + structured responses, not free-text.
-• Gold set: 5 rows, 3 adversarial. Tests align with M5 autonomy boundaries (data/group auto, assignment approval-required, deletion never auto) instead of inventing fresh rules.
-• Confidence UX layered under M5 policy. Policy is the floor, tiers gate within categories.
-• Reliability metrics now per-model (Gemini, GPT-4o) and per-tool, with end-to-end latency including the LLM round-trip via Workato.
-• Red-team finding pivoted from "silent partial-success" to **policy evasion via tool composition** - a much more MCP-native risk that the M5 single-call policy gates can't catch.
-• Coverage gaps now include the M2/M5 Network Intelligence loop gap and the cascade-boundary gap.
