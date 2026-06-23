@@ -18,3 +18,4 @@ By adding an MCP Server capability, Administrators will have an improved user ex
 ## Kill Criteria
 - Lack of positive response from prototype.
 - Lack of adoption from early beta.
+- Massively positive response from prototype; shows we have found a product solution fit.
