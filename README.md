@@ -37,7 +37,7 @@
 
 **Why this won't get copied in 6 months.**
 
-- **Data Flywheel Score:**
+- **Data Flywheel Score:** 8/20
 - **Weakest Loop:** Network loop
 - **Top Encroachment Threat:** Thrive LXP
 - **Encroachment Defense:** Add model context from multiple customers to blind-inform model based on randomisation, with opt out for customers who do not wish for data to be used this way.
