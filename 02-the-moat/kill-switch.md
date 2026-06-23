@@ -4,7 +4,7 @@
 
 | Dimension | Current State | Risk Level | 48-Hour Action |
 |-----------|--------------|------------|---------------|
-| **Provider** | Using 2 | L | Use marketplace for new providers if neccesary |
+| **Provider** | Using 2 | L | Use Azure marketplace for new providers if neccesary |
 | **Abstraction** | Model-agnostic | L | Swap model as per above |
 | **Routing** | Model agnostic | L | Swap model as above |
 | **Eval** | No automated eval - manual | M | Add automated evaluation |
